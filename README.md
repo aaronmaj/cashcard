@@ -1,1 +1,1 @@
-# cashcard
+# cashcard - event-driven using Spring Cloud Streams
